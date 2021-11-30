@@ -7,4 +7,7 @@ fi
 if [[ ! -d $ZSH_DIR_PLUG/zsh-syntax-highlighting ]];then
 	git clone https://gitee.com/asters1/zsh-syntax-highlighting $ZSH_DIR_PLUG/zsh-syntax-highlighting
 fi
-#/root/.oh-my-zsh/custom/plugins/
+#fzf-tab
+if [[ ! -d $ZSH_DIR_PLUG/fzf-tab ]];then
+	git clone https://gitee.com/asters1/fzf-tab $ZSH_DIR_PLUG/fzf-tab
+fi
