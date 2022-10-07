@@ -1,7 +1,6 @@
 alias sudo='sudo -E'
 alias rm='rm -rf'
 alias vim='nvim'
-alias vim='vi'
 alias cdd='cd ~/下载'
 alias scp='scp -r'
 alias ra='ranger'
