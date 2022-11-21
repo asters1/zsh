@@ -4,6 +4,11 @@ export ZSH_DIR_PLUG=$ZSH_CUSTOM/plugins
 export JAVA_HOME=/opt/jdk-11.0.17
 export PATH=$PATH:$JAVA_HOME/bin:.
 export CLASSPATH=$JAVA_HOME/lib/tools.jar:$JAVA_HOME/lib/dt.jar:.
+#maven
+export MAVEN_HOME=/opt/apache-maven-3.8.6
+export PATH=$PATH:$MAVEN_HOME/bin:.
+
+
 
 #go
 export GOROOT=/usr/local/go
