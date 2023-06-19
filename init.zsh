@@ -14,9 +14,10 @@ export PATH=/opt/qt/5.9.1/gcc_64/bin:${PATH}
 
 
 #go
-export GOROOT=/opt/golang/go
-#jadx
+#export GOROOT=
 export PATH=$PATH:$GOROOT/bin
+export GOPROXY=https://goproxy.cn,direct
+#jadx
 export PATH=$PATH:/opt/jadx/build/jadx/bin
 
 
