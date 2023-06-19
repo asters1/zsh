@@ -14,3 +14,4 @@ alias gl='git pull origin master'
 alias gr='git rm'
 alias grro='git remote rm origin'
 alias grao='git remote add origin'
+alias s="screenfetch"
