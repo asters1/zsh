@@ -13,6 +13,7 @@ alias gp='git push origin master'
 alias gpf='git push -f -u origin master'
 alias gl='git pull origin master'
 alias gr='git rm'
+alias gn='git branch'
 alias grro='git remote rm origin'
 alias grao='git remote add origin'
 alias s="screenfetch"

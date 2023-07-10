@@ -2,7 +2,7 @@ DISABLE_AUTO_UPDATE="true"
 export ZSH=$HOME/.oh-my-zsh
 export ZSH_DIR_PLUG=$ZSH_CUSTOM/plugins
 #java
-export JAVA_HOME=/opt/jdk-11.0.17
+export JAVA_HOME=/opt/java/jdk-11.0.17
 export PATH=$PATH:$JAVA_HOME/bin:.
 export CLASSPATH=$JAVA_HOME/lib/tools.jar:$JAVA_HOME/lib/dt.jar:.
 #maven
