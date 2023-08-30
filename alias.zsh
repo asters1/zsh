@@ -1,5 +1,5 @@
 alias sudo='sudo -E'
-alias rm='rm -rf'
+alias rm='bash $HOME/.config/zsh/sh/rm.sh'
 alias vim='nvim'
 alias cdd='cd ~/下载'
 alias scp='scp -r'
