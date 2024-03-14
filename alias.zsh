@@ -1,6 +1,6 @@
 alias sudo='sudo -E'
 alias rm='bash $HOME/.config/zsh/sh/rm.sh'
-alias vim='nvim'
+alias vim='$HOME/.local/app/nvim-linux64/bin/nvim'
 alias cdd='cd ~/下载'
 alias scp='scp -r'
 alias ra='ranger'
