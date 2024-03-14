@@ -10,9 +10,6 @@ export MAVEN_HOME=/opt/apache-maven-3.8.6
 export PATH=$PATH:$MAVEN_HOME/bin:.
 #qt
 export PATH=/opt/qt/5.9.1/gcc_64/bin:${PATH}
-
-
-
 #go
 export GOROOT=$HOME/.local/app/go
 export PATH=$PATH:$GOROOT/bin

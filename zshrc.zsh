@@ -1,6 +1,6 @@
 #安装oh-my-zsh
 if [[ ! -d $HOME/.oh-my-zsh ]];then
-	wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | sh
+	wget https://wisteria.cf/https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O - | sh
 	echo "source \$HOME\/.config/zsh/zshrc.zsh" > $HOME/.zshrc
 fi
 source ~/.config/zsh/init.zsh
