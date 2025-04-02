@@ -17,3 +17,4 @@ alias gn='git branch'
 alias grro='git remote rm origin'
 alias grao='git remote add origin'
 alias s="screenfetch"
+alias vue3_create="cp $HOME/.config/zsh/template/uniapp_vue3"
